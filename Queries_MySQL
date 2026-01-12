@@ -15,3 +15,8 @@ There are various types of constraints that can be defined are as follows -
 6. NOT NULL Constraints
 
 Domain Constraints
+A domain is defined as the set of all unique values permitted for an attribute. 
+For example, a domain of date is the set of all possible valid dates and a domain of Integer is all possible whole numbers.
+This in effect is defining rules for a particular attribute. 
+If it is determined that an attribute is a date then it should be implemented in the database to prevent invalid dates being entered.
+
