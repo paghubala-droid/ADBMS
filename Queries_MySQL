@@ -1,0 +1,17 @@
+Unit 1 
+Constraints
+Definition
+Constraints are rules used to specify the data in a table. When the table is created at that time we can define the constraints.The constraint can be column level 
+i.e. we can impose constraint on the column and table level i.e we can impose constraint on the entire table.
+
+There are various types of constraints that can be defined are as follows -
+1. Domain Constraints
+2. Key Constraints
+    i) Primary Key Constraints
+    ii) Foreign Key Constraints
+3. Default Constraints
+4. Check Constraints
+5. Unique Constraints
+6. NOT NULL Constraints
+
+Domain Constraints
